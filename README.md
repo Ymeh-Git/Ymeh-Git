@@ -81,7 +81,7 @@ Mon plan de vol pour la suite est bien défini :
 
 Discutons ensemble de dev, de jeux vidéo ou de projets IA !
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jrmy-drlz)
+[LinkedIn](www.linkedin.com/in/jrmy-drlz)
 
 # 🇬🇧
 
@@ -158,4 +158,4 @@ My roadmap for the future is clearly defined:
 
 Let's chat about dev, video games, or AI projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jrmy-drlz)
+[LinkedIn](www.linkedin.com/in/jrmy-drlz)
