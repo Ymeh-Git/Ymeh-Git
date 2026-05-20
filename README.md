@@ -1,9 +1,11 @@
 # 🇫🇷
 # Salut ! Moi c'est Jérémy 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=450&lines=Développeur+Passionné+💻;Amoureux+du+Web+%26+Mobile+📱;En+route+vers+l%27IA+🤖" alt="Typing SVG" />
-</p>
+<div style="display:flex;flex-direction:row;justify-content:space-between">
+  <p>Amoureux du dev 💻</p>
+  <p>Web & mobile</p>
+  <p>En route pour l'IA 🤖</p>
+</div>
 
 ---
 
@@ -36,22 +38,31 @@ Un grand merci aux formateurs et participants pour les moments partagés
 ## 🛠️ Mes technos & outils
 
 🎨 **Front-end :** 
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Front-end" />
 </p>
+
 🎳 **Back-end :** 
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php" alt="Front-end" />
 </p>
+
 🎭 **Généraliste :** 
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py" alt="Front-end" />
 </p>
+
 🍏 **Mobile :** 
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=swift,swiftui" alt="Mobile" />
 </p>
+
 ⚙️ **Outils :** 
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,github,figma,discord" alt="Web & Mobile" />
 </p>
@@ -66,20 +77,6 @@ Mon plan de vol pour la suite est bien défini :
 
 ---
 
-## 📊 Statistiques GitHub
-
-Voici un aperçu de mon activité sur la plateforme :
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Ymeh-Git&show_icons=true&theme=dark" alt="Stats de Jérémy" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ymeh-Git&theme=dark" alt="Streak de Jérémy" /></td>
-  </tr>
-</table>
-
-
----
-
 ## 🌐 Mes réseaux
 
 Discutons ensemble de dev, de jeux vidéo ou de projets IA !
@@ -90,9 +87,11 @@ Discutons ensemble de dev, de jeux vidéo ou de projets IA !
 
 # Hi there! I'm Jérémy 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=450&lines=Passionate+Developer+💻;Web+%26+Mobile+Lover+📱;On+my+way+to+AI+🤖" alt="Typing SVG" />
-</p>
+<div style="display:flex;flex-direction:row;justify-content:space-between">
+  <p>In love with dev 💻</p>
+  <p>Web & mobile</p>
+  <p>Heading to IA learning 🤖</p>
+</div>
 
 ---
 
@@ -152,19 +151,6 @@ A big thank you to the trainers and participants for the shared moments!
 My roadmap for the future is clearly defined:
 1. **Heading towards AI:** Join a work-study program specializing in **AI Development** to level up my skills and gain hands-on field experience.
 2. **Giving back:** As soon as possible, I want to give back to the community by becoming a **trainer for introductory workshops**. The goal? Offer simple, accessible workshops to help people discover and love the world of development.
-
----
-
-## 📊 GitHub Stats
-
-Here is a glimpse of my activity on the platform:
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Ymeh-Git&show_icons=true&theme=dark" alt="Jérémy's Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ymeh-Git&theme=dark" alt="Jérémy's Streak" /></td>
-  </tr>
-</table>
 
 ---
 
