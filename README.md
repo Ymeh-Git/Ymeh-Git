@@ -52,13 +52,13 @@ Un grand merci aux formateurs et participants pour les moments partagés
 🎳 **Back-end :** 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php" alt="Front-end" />
+  <img src="https://skillicons.dev/icons?i=php" alt="Back-end" />
 </p>
 
 🎭 **Généraliste :** 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py" alt="Front-end" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Généraliste" />
 </p>
 
 🍏 **Mobile :** 
@@ -70,7 +70,7 @@ Un grand merci aux formateurs et participants pour les moments partagés
 ⚙️ **Outils :** 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,figma,discord" alt="Web & Mobile" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma,discord" alt="Outils" />
 </p>
 
 ---
