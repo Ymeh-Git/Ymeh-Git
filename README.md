@@ -13,7 +13,11 @@
 
 Je suis une personne **joviale**, animée par l'envie d'**apprendre**, de **partager** et de relever des **défis** au quotidien ! 
 
+📖 **Côté lecture :** Je collectionne et j'aime lire des mangas : Blood Lad, Tokyo Ghoul, Solo Leveling, Berserk, mais surtout mon préféré et c'est 🇫🇷 : Dreamland
 🎮 **Côté gaming :** Grand amateur de jeux vidéo. Pour moi, un bon jeu se démarque avant tout par les **émotions** qu'il transmet et l'histoire qu'il raconte.
+🚲 **Côté sport :** Faire du vélo, j'aime les chemins dédiés en forêt ou au bord d'une rivière, la route un peu moins, en tout cas j'évite les heures de pointes.
+
+⁇ **Activité du moment :** J'aime faire des gâteaux 🍰 😍
 
 ---
 
