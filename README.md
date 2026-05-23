@@ -1,6 +1,6 @@
 # 🇫🇷
 # Salut ! Moi c'est Jérémy 👋
-## [Cliquez-ici pour voir mon Portfolio](https://portfolio-jeremy.onrender.com/index.php?route=home)
+## <a href="https://portfolio-jeremy.onrender.com/index.php?route=home" target="_blank">Cliquez-ici pour voir mon Portfolio</a>
 <div style="display:flex;flex-direction:row;justify-content:space-between">
   <p>Amoureux du dev 💻</p>
   <p>Web & mobile</p>
